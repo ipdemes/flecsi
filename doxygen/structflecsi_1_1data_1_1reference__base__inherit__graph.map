@@ -1,4 +1,6 @@
 <map id="flecsi::data::reference_base" name="flecsi::data::reference_base">
-<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1accessor_3_01dense_00_01DATA__TYPE_00_01PRIVILEGES_01_4.html" title="flecsi::data::accessor\l\&lt; dense, DATA_TYPE, PRIVILEGES \&gt;" alt="" coords="236,5,491,47"/>
-<area shape="rect" id="node3" href="$structflecsi_1_1topo_1_1set.html" title="flecsi::topo::set\&lt;\l POLICY_TYPE \&gt;" alt="" coords="299,71,428,112"/>
+<area shape="rect" id="node1" title="An integer used to identify a resource to bind in a task." alt="" coords="211,46,412,73"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1accessor_3_01raw_00_01DATA__TYPE_00_01PRIVILEGES_01_4.html" title=" " alt="" coords="460,5,700,47"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1topo_1_1set.html" title=" " alt="" coords="514,71,646,112"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1bind__tag.html" title=" " alt="" coords="5,46,163,73"/>
 </map>

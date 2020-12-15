@@ -1,3 +1,17 @@
-<map id="flecsi::topo::ntree&lt; POLICY_TYPE &gt;" name="flecsi::topo::ntree&lt; POLICY_TYPE &gt;">
-<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1ntree__base.html" title="flecsi::topo::ntree_base" alt="" coords="5,5,164,32"/>
+<map id="flecsi::topo::ntree&lt; Policy &gt;" name="flecsi::topo::ntree&lt; Policy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="615,241,749,282"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1ntree__base.html" title=" " alt="" coords="285,5,458,32"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1util_1_1key__array.html" title=" " alt="" coords="276,56,467,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,15,185,71"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1field.html" title=" " alt="" coords="272,137,471,178"/>
+<area shape="rect" id="node6" href="$structflecsi_1_1data_1_1detail_1_1field__base.html" title=" " alt="" coords="20,95,208,166"/>
+<area shape="rect" id="node7" href="$structflecsi_1_1field.html" title=" " alt="" coords="282,203,461,259"/>
+<area shape="rect" id="node8" href="$structflecsi_1_1data_1_1detail_1_1field__base.html" title=" " alt="" coords="5,190,223,261"/>
+<area shape="rect" id="node9" href="$structflecsi_1_1field.html" title=" " alt="" coords="293,284,450,311"/>
+<area shape="rect" id="node10" href="$structflecsi_1_1data_1_1detail_1_1field__base.html" title=" " alt="" coords="39,285,189,341"/>
+<area shape="rect" id="node11" href="$structflecsi_1_1field.html" title=" " alt="" coords="288,337,455,364"/>
+<area shape="rect" id="node12" href="$structflecsi_1_1data_1_1detail_1_1field__base.html" title=" " alt="" coords="35,365,193,421"/>
+<area shape="rect" id="node13" href="$structflecsi_1_1data_1_1copy__plan.html" title=" " alt="" coords="288,388,455,415"/>
+<area shape="rect" id="node14" href="$structflecsi_1_1field.html" title=" " alt="" coords="300,448,443,504"/>
+<area shape="rect" id="node15" href="$structflecsi_1_1data_1_1detail_1_1field__base.html" title=" " alt="" coords="23,446,205,517"/>
 </map>

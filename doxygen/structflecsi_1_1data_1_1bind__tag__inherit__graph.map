@@ -1,0 +1,10 @@
+<map id="flecsi::data::bind_tag" name="flecsi::data::bind_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,163,170"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1accessor_3_01single_00_01DATA__TYPE_00_01PRIVILEGES_01_4.html" title=" " alt="" coords="211,5,465,47"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1mutator_3_01ragged_00_01T_00_01P_01_4.html" title=" " alt="" coords="261,71,415,112"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1data_1_1mutator_3_01sparse_00_01T_00_01P_01_4.html" title=" " alt="" coords="261,136,415,177"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1data_1_1reference__base.html" title="An integer used to identify a resource to bind in a task." alt="" coords="237,202,439,229"/>
+<area shape="rect" id="node8" href="$structflecsi_1_1data_1_1topology__accessor.html" title=" " alt="" coords="259,253,417,295"/>
+<area shape="rect" id="node6" href="$structflecsi_1_1data_1_1accessor_3_01raw_00_01DATA__TYPE_00_01PRIVILEGES_01_4.html" title=" " alt="" coords="513,161,753,203"/>
+<area shape="rect" id="node7" href="$structflecsi_1_1topo_1_1set.html" title=" " alt="" coords="567,227,699,268"/>
+</map>

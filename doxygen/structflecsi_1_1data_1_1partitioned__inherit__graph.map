@@ -1,5 +1,7 @@
-<map id="flecsi::data::partitioned" name="flecsi::data::partitioned">
-<area shape="rect" id="node4" href="$structflecsi_1_1topo_1_1index__category.html" title="flecsi::topo::index\l_category\&lt; P \&gt;" alt="" coords="73,169,198,211"/>
-<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1leg_1_1region.html" title="flecsi::data::leg::\lregion" alt="" coords="5,5,124,47"/>
-<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1leg_1_1partition.html" title="flecsi::data::leg::\lpartition" alt="" coords="148,5,267,47"/>
+<map id="flecsi::data::partitioned&lt; P &gt;" name="flecsi::data::partitioned&lt; P &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="47,155,258,181"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1data_1_1detail_1_1intervals__category.html" title=" " alt="" coords="77,229,228,285"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1region.html" title=" " alt="" coords="24,80,167,107"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1region__base.html" title=" " alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="191,80,229,107"/>
 </map>

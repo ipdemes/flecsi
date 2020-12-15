@@ -1,3 +1,7 @@
-<map id="flecsi::data::leg::partition" name="flecsi::data::leg::partition">
-<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title="flecsi::data::leg::\lunique_handle\&lt; Legion\l::IndexSpace, &amp;Legion\l::Runtime::destroy_index\l_space \&gt;" alt="" coords="5,5,173,91"/>
+<map id="flecsi::data::leg::partition&lt; R &gt;" name="flecsi::data::leg::partition&lt; R &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="516,93,645,134"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1data_1_1leg_1_1partition__base.html" title=" " alt="" coords="337,93,467,134"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,85,180,141"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,165,180,221"/>
 </map>

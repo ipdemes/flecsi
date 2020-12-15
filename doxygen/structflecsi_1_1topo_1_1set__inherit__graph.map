@@ -1,4 +1,6 @@
 <map id="flecsi::topo::set&lt; POLICY_TYPE &gt;" name="flecsi::topo::set&lt; POLICY_TYPE &gt;">
-<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1set__base__t.html" title="flecsi::topo::set_base_t" alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1reference__base.html" title="flecsi::data::reference_base" alt="" coords="188,5,371,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="130,155,262,196"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1set__base__t.html" title=" " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1reference__base.html" title="An integer used to identify a resource to bind in a task." alt="" coords="201,80,402,107"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1data_1_1bind__tag.html" title=" " alt="" coords="223,5,380,32"/>
 </map>

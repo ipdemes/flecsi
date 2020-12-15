@@ -1,3 +1,13 @@
-<map id="flecsi::topo::unstructured&lt; POLICY_TYPE &gt;" name="flecsi::topo::unstructured&lt; POLICY_TYPE &gt;">
-<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1unstructured__base.html" title="flecsi::topo::unstructured_base" alt="" coords="5,5,207,32"/>
+<map id="flecsi::topo::unstructured&lt; Policy &gt;" name="flecsi::topo::unstructured&lt; Policy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="1135,96,1317,137"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1unstructured__base.html" title=" " alt="" coords="828,19,1049,46"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1topo_1_1with__ragged.html" title=" " alt="" coords="867,71,1010,112"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1topo_1_1with__ragged__base.html" title=" " alt="" coords="589,5,718,47"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1topo_1_1ragged__topology.html" title=" " alt="" coords="576,71,731,112"/>
+<area shape="rect" id="node6" href="$structflecsi_1_1topo_1_1with__meta.html" title=" " alt="" coords="873,136,1005,177"/>
+<area shape="rect" id="node7" href="$structflecsi_1_1topo_1_1meta__topology.html" title=" " alt="" coords="576,136,731,177"/>
+<area shape="rect" id="node8" href="$structflecsi_1_1topo_1_1specialization.html" title=" " alt="" coords="284,129,527,185"/>
+<area shape="rect" id="node9" href="$structflecsi_1_1topo_1_1specialization__base.html" title=" " alt="" coords="5,143,235,170"/>
+<area shape="rect" id="node10" href="$structflecsi_1_1util_1_1key__array.html" title=" " alt="" coords="843,202,1034,258"/>
+<area shape="rect" id="node11" title=" " alt="" coords="582,202,725,258"/>
 </map>

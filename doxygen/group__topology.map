@@ -1,5 +1,6 @@
 <map id="Topology Interface" name="Topology Interface">
-<area shape="rect" id="node2" href="$group__mesh-topology.html" title="Mesh Toplogy Interface" alt="" coords="189,5,347,32"/>
-<area shape="rect" id="node3" href="$group__tree-topology.html" title="Tree Toplogy Interface" alt="" coords="191,56,345,83"/>
-<area shape="rect" id="node4" href="$group__structured-mesh-topology.html" title="Structured Mesh Toplogy\l Interface" alt="" coords="184,107,352,149"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,148,80"/>
+<area shape="rect" id="node2" href="$group__mesh-topology.html" title=" " alt="" coords="201,5,374,31"/>
+<area shape="rect" id="node3" href="$group__tree-topology.html" title=" " alt="" coords="205,55,370,80"/>
+<area shape="rect" id="node4" href="$group__structured-mesh-topology.html" title=" " alt="" coords="196,105,379,145"/>
 </map>

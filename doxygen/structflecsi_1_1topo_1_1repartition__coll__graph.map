@@ -1,0 +1,11 @@
+<map id="flecsi::topo::repartition" name="flecsi::topo::repartition">
+<area shape="rect" id="node1" title=" " alt="" coords="965,67,1135,93"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1with__size.html" title=" " alt="" coords="753,36,916,63"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1topo_1_1resize_1_1policy.html" title=" " alt="" coords="516,27,656,69"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1data_1_1partition.html" title=" " alt="" coords="757,91,913,117"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1data_1_1leg_1_1partition.html" title=" " alt="" coords="521,93,651,134"/>
+<area shape="rect" id="node6" href="$structflecsi_1_1data_1_1leg_1_1partition__base.html" title=" " alt="" coords="337,93,467,134"/>
+<area shape="rect" id="node7" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node8" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,85,180,141"/>
+<area shape="rect" id="node9" href="$structflecsi_1_1data_1_1leg_1_1unique__handle.html" title=" " alt="" coords="5,165,180,221"/>
+</map>

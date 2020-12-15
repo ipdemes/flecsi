@@ -1,4 +1,8 @@
 <map id="flecsi::topo::global_category&lt; P &gt;" name="flecsi::topo::global_category&lt; P &gt;">
-<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1global__base.html" title="flecsi::topo::global_base" alt="" coords="5,13,168,39"/>
-<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1leg_1_1region.html" title="flecsi::data::leg::\lregion" alt="" coords="193,5,311,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="209,184,351,225"/>
+<area shape="rect" id="node2" href="$structflecsi_1_1topo_1_1global__base.html" title=" " alt="" coords="5,102,184,129"/>
+<area shape="rect" id="node3" href="$structflecsi_1_1data_1_1region.html" title=" " alt="" coords="209,102,351,129"/>
+<area shape="rect" id="node4" href="$structflecsi_1_1data_1_1region__base.html" title=" " alt="" coords="185,13,365,39"/>
+<area shape="rect" id="node5" href="$structflecsi_1_1topo_1_1with__ragged.html" title=" " alt="" coords="385,95,514,136"/>
+<area shape="rect" id="node6" href="$structflecsi_1_1topo_1_1with__ragged__base.html" title=" " alt="" coords="389,5,518,47"/>
 </map>
