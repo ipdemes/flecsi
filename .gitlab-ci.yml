@@ -29,8 +29,6 @@ format:diff:
   dependencies: []
   only:
     - merge_requests
-  artifacts:
-    when: on_failure
   variables:
     REGISTRY: gitlab.lanl.gov:5050/flecsi/flecsi
     IMAGE: util-fedora-30
