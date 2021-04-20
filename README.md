@@ -1,3 +1,5 @@
+![logo](config/flecsi.png)
+
 # FleCSI Upstream Spack Repository
 
 This repository maintains FleCSI spack packages for all branches and
