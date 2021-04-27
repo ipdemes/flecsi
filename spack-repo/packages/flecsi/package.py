@@ -21,8 +21,10 @@ class Flecsi(CMakePackage):
     homepage = 'http://flecsi.org/'
     git      = 'https://github.com/flecsi/flecsi.git'
 
+    version('2.0.0', branch='2.0', submodules=False, preferred=False)
     version('2.1.0', branch='2.1', submodules=False, preferred=False)
-
+    version('2.2', branch='2', submodules=False, preferred=False)
+    version('devel', branch='devel', submodules=False, preferred=False)
     #--------------------------------------------------------------------------#
     # Variants
     #--------------------------------------------------------------------------#
