@@ -3,8 +3,10 @@
 #
 # SPDX-License-Identifier: (Apache-2.0 OR MIT)
 
+
 from spack import *
 import os
+
 
 class Flecsi(CMakePackage):
     '''FleCSI is a compile-time configurable framework designed to support
@@ -84,15 +86,26 @@ class Flecsi(CMakePackage):
     # HDF5
 
     depends_on('hdf5+mpi', when='+hdf5')
-
+ 
     # Kokkos
 
-    depends_on('kokkos@3.2.00:', when='+kokkos')
+    depends_on('kokkos@3.3.01 +pic std=14', when='+kokkos')
+    depends_on('kokkos@3.3.01 +pic std=14 +cuda_uvm', when='backend=mpi +kokkos')
+    depends_on('kokkos@3.3.01 ~wrapper +cuda +cuda_lambda +pic std=14 cuda_arch=70', when='%clang +kokkos+cuda')
+    depends_on('kokkos@3.3.01 +wrapper +cuda +cuda_lambda +pic std=14 cuda_arch=70', when='%gcc +kokkos+cuda')
+    depends_on('kokkos@3.3.01 +openmp +pic std=14',when='kokkos+openmp')
 
     # Legion
 
-    depends_on('legion@ctrl-rep-9:ctrl-rep-99',when='backend=legion')
+    depends_on('legion@ctrl-rep-10:ctrl-rep-99 network=gasnet conduit=mpi',when='backend=legion')
     depends_on('legion+hdf5',when='backend=legion +hdf5')
+    depends_on('legion+shared',when='backend=legion +shared')
+    depends_on('hdf5@1.10.7:',when='backend=legion +hdf5')
+
+    #Legion +cuda +flecsi work only with clang compiler
+    conflicts('%gcc', when='backend=legion++kokkos+cuda',
+              msg="clang compiler should be used when compiling for CUDA with Legion back-end")
+    depends_on('legion+kokkos+cuda+cuda_unsupported_compiler cuda_arch=70',when='backend=legion +cuda')
 
     # Metis
 
